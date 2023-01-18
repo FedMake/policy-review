@@ -6,13 +6,13 @@ Government focused Policy Review FedMake Accelerator Developed by Makers within 
 
 Import the Power Platform solution files in the following order:
 
-1. [1-policy-review-tables.zip](https://github.com/FedMake/policy-review/blob/main/solution/v1.0.0/1-policy-review-tables.zip)
-2. [2-policy-review-connection-references.zip](https://github.com/FedMake/policy-review/blob/main/solution/v1.0.0/2-policy-review-connection-references.zip)
-3. [3-policy-review-flows.zip](https://github.com/FedMake/policy-review/blob/main/solution/v1.0.0/3-policy-review-flows.zip)
-4. [4-policy-review-app.zip](https://github.com/FedMake/policy-review/blob/main/solution/v1.0.0/4-policy-review-app.zip)
-5. ***(Optional)*** [4b-policy-review-app-alternative.zip](https://github.com/FedMake/policy-review/blob/main/solution/v1.0.0/4b-policy-review-app-alternative.zip)
+1. [1-policy-review-tables.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/1-policy-review-tables.zip)
+2. [2-policy-review-connection-references.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/2-policy-review-connection-references.zip)
+3. [3-policy-review-flows.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/3-policy-review-flows.zip)
+4. [4-policy-review-app.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4-policy-review-app.zip)
+5. ***(Optional)*** [4b-policy-review-app-alternative.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4b-policy-review-app-alternative.zip)
 
-**[2-policy-review-connection-references.zip](https://github.com/FedMake/policy-review/blob/main/solution/v1.0.0/2-policy-review-connection-references.zip)** is all of the connection references and will ask you to create or select connectors for:
+**[2-policy-review-connection-references.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/2-policy-review-connection-references.zip)** is all of the connection references and will ask you to create or select connectors for:
 
 - Office 365 Users
 - SharePoint
