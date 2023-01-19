@@ -6,7 +6,7 @@ An organization has a policy review manual.
 
 - When a new policy is created, it must be submitted for review and approval.
 - At a minimum, the policy is routed to the submitter's direct manager for approval.
-- Depending on the type of policy, it may require 2 oe 3 levels of approval.
+- Depending on the type of policy, it may require 2 or 3 levels of approval.
 - The submitter my also indicate if additional reviewers are required.
 - Reviews are done in serial (syncronous).  The policy will not move on to the next approver until the current one has approved it.
 
@@ -20,13 +20,7 @@ An organization has a policy review manual.
 
 ![Supported in DoD](https://img.shields.io/static/v1?label=DoD&message=Supported&color=brightgreen)
 
-### Dataverse
-
-![Supported in Dataverse for Teams](https://img.shields.io/static/v1?label=Dataverse%20for%20Teams&message=Supported&color=brightgreen)
-
-![Supported in Dataverse Premium](https://img.shields.io/static/v1?label=GCCH&message=Supported&color=brightgreen)
-
-### Licensing Required
+### Minimum Licensing Required
 
 ![Requires M365](https://img.shields.io/static/v1?label=Microsft%20365%20G3%20or%20higher&message=Required&color=brightgreen)
 
