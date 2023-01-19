@@ -10,17 +10,13 @@ An organization has a policy review manual.
 - The submitter my also indicate if additional reviewers are required.
 - Reviews are done in serial (syncronous).  The policy will not move on to the next approver until the current one has approved it.
 
-## Supported Environments
-
-### M365 Clouds
+## Supported M365 Clouds
 
 ![Supported in GCC](https://img.shields.io/static/v1?label=GCC&message=Supported&color=brightgreen)
-
 ![Supported in GCCH](https://img.shields.io/static/v1?label=GCCH&message=Supported&color=brightgreen)
-
 ![Supported in DoD](https://img.shields.io/static/v1?label=DoD&message=Supported&color=brightgreen)
 
-### Minimum Licensing Required
+## Minimum Licensing Required
 
 ![Requires M365](https://img.shields.io/static/v1?label=Microsft%20365%20G3%20or%20higher&message=Required&color=brightgreen)
 
