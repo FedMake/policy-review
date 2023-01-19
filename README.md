@@ -1,23 +1,56 @@
 # Policy Review FedMake Accelerator
 
-Government focused Policy Review FedMake Accelerator Developed by Makers within the Federal, Intel, and Dept of Defense organizations.
+Policy Review FedMake Accelerator developed by Makers within the Federal, Intel, and Dept of Defense organizations that address the following requirements:
+
+An organization has a policy review manual.
+
+- When a new policy is created, it must be submitted for review and approval.
+- At a minimum, the policy is routed to the submitter's direct manager for approval.
+- Depending on the type of policy, it may require 2 oe 3 levels of approval.
+- The submitter my also indicate if additional reviewers are required.
+- Reviews are done in serial (syncronous).  The policy will not move on to the next approver until the current one has approved it.
+
+## Supported Environments
+
+### M365 Clouds
+
+![Supported in GCC](https://img.shields.io/static/v1?label=GCC&message=Supported&color=brightgreen)
+
+![Supported in GCCH](https://img.shields.io/static/v1?label=GCCH&message=Supported&color=brightgreen)
+
+![Supported in DoD](https://img.shields.io/static/v1?label=DoD&message=Supported&color=brightgreen)
+
+### Dataverse
+
+![Supported in Dataverse for Teams](https://img.shields.io/static/v1?label=Dataverse%20for%20Teams&message=Supported&color=brightgreen)
+
+![Supported in Dataverse Premium](https://img.shields.io/static/v1?label=GCCH&message=Supported&color=brightgreen)
+
+### Licensing Required
+
+![Requires M365](https://img.shields.io/static/v1?label=Microsft%20365%20G3%20or%20higher&message=Required&color=brightgreen)
 
 ## Deployment Guide
 
-Import the Power Platform solution files in the following order:
+Download the following files:
+
+- [1-policy-review-tables.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/1-policy-review-tables.zip) - Dataverse Tables
+- [2-policy-review-connection-references.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/2-policy-review-connection-references.zip) - All of the connection references and will ask you to create or select connectors for:
+  - Office 365 Users
+  - SharePoint
+  - Approvals
+  - Dataverse
+- [3-policy-review-flows.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/3-policy-review-flows.zip) - Power Automate Flows
+- [4-policy-review-app.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4-policy-review-app.zip) - Policy Review Application
+- ***(Optional)*** [4b-policy-review-app-alternative.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4b-policy-review-app-alternative.zip) - Alternate Policy Review Application
+
+Import the Power Platform solution files into Dataverse or Dataverse for Teams in the following order:
 
 1. [1-policy-review-tables.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/1-policy-review-tables.zip)
 2. [2-policy-review-connection-references.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/2-policy-review-connection-references.zip)
 3. [3-policy-review-flows.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/3-policy-review-flows.zip)
 4. [4-policy-review-app.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4-policy-review-app.zip)
 5. ***(Optional)*** [4b-policy-review-app-alternative.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4b-policy-review-app-alternative.zip)
-
-**[2-policy-review-connection-references.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/2-policy-review-connection-references.zip)** is all of the connection references and will ask you to create or select connectors for:
-
-- Office 365 Users
-- SharePoint
-- Approvals
-- Dataverse
 
 ***Detailed Version Coming Soon***
 
