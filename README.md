@@ -1,5 +1,8 @@
 # Policy Review FedMake Accelerator
 
+![Current Version is 1.0.0](https://img.shields.io/static/v1?label=Current%20Version&message=1.0.0&color=blue)
+![Released on January 20th, 2022](https://img.shields.io/static/v1?label=Released&message=January%2020th,%202022&color=blue)
+
 Policy Review FedMake Accelerator developed by Makers within the Federal, Intel, and Dept of Defense organizations that address the following requirements:
 
 An organization has a policy review manual.
@@ -18,9 +21,11 @@ An organization has a policy review manual.
 
 ## Minimum Licensing Required
 
-![Requires M365](https://img.shields.io/static/v1?label=Microsft%20365%20G3%20or%20higher&message=Required&color=brightgreen)
+![Requires M365](https://img.shields.io/static/v1?label=Microsft%20365&message=G3%20or%20higher&color=blue)
 
 ## Deployment Guide
+
+### Step 1
 
 Download the following files:
 
@@ -34,6 +39,8 @@ Download the following files:
 - [4-policy-review-app.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4-policy-review-app.zip) - Policy Review Application
 - ***(Optional)*** [4b-policy-review-app-alternative.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4b-policy-review-app-alternative.zip) - Alternate Policy Review Application
 
+### Step 2
+
 Import the Power Platform solution files into Dataverse or Dataverse for Teams in the following order:
 
 1. [1-policy-review-tables.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/1-policy-review-tables.zip)
@@ -41,8 +48,6 @@ Import the Power Platform solution files into Dataverse or Dataverse for Teams i
 3. [3-policy-review-flows.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/3-policy-review-flows.zip)
 4. [4-policy-review-app.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4-policy-review-app.zip)
 5. ***(Optional)*** [4b-policy-review-app-alternative.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/4b-policy-review-app-alternative.zip)
-
-***Detailed Version Coming Soon***
 
 ## What is a FedMake Accelerator
 
